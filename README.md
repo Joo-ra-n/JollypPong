@@ -13,3 +13,6 @@
 ### [6. 파워서플라이](parts/PSU.md)
 ### [7. 케이스](parts/CASE.md)
 ### [8. 기타](parts/guitar.md)
+### [9. 하우투 조립](parts/jollyp.md)
+
+## [실적](record.md)
